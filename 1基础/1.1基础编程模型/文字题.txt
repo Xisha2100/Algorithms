@@ -27,4 +27,4 @@
 	e
 
 1.1.10
-	需要int[] a = new int[10]
+	需要int[] a = new int[10];
