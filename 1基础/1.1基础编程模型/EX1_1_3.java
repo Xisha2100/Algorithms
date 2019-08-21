@@ -1,6 +1,6 @@
 package ty_pack;
 import edu.princeton.cs.algs4.*; 
-public class TY_class1
+public class EX1_1_3
 {
 	public static void main(String[] args) 
 	{
