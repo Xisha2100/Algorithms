@@ -31,3 +31,4 @@ public class EX1_1_22
 			return mid;
 	}
 }
+//
