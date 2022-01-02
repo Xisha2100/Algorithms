@@ -1,11 +1,11 @@
-package ty_pack;
+package top.nzhz.section1.sub1;
 import edu.princeton.cs.algs4.*; 
 
 public class EX1_1_9
 {
 	public static void main(String[] args) 
 	{
-		int n = 0;
+		int n;
 		n=StdIn.readInt();		
 		StdOut.println(d2bs(n));
 	}

@@ -1,4 +1,6 @@
-public class Ex1_1_22
+package top.nzhz.section1.sub1;
+
+public class EX1_1_22
 {
     public static int rank(int key, int[] a) {
         return rank(key, a, 0, a.length - 1, 0);

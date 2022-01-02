@@ -1,4 +1,4 @@
-package ty_pack;
+package top.nzhz.section1.sub1;
 import edu.princeton.cs.algs4.*; 
 
 public class EX1_1_14

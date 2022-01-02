@@ -1,4 +1,4 @@
-package exercise;
+package top.nzhz.section1.sub1;
 import edu.princeton.cs.algs4.*;
 
 public class EX1_1_19
@@ -6,7 +6,7 @@ public class EX1_1_19
 
 	public static void main(String[] args) 
 	{
-		// ·½·¨¹ýÓÚ»ºÂý£¬ËùÓÐÊý¾ÝÃ»ÓÐ±£´æ
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½Ð±ï¿½ï¿½ï¿½
 //		for(int N=0; N<100; N++)
 //		{
 //			StdOut.println(N+" "+F(N));
