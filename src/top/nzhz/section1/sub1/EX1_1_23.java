@@ -26,11 +26,12 @@ public class EX1_1_23 {
         Arrays.sort(whiteList);
         while (true){
             int key= StdIn.readInt();
+            StdIn.readChar();
             char con=StdIn.readChar();
             if(con=='+'&&rank(key,whiteList)==-1)
-                StdOut.println(key);
+                StdOut.println("+"+key);
             else if(con=='-'&&rank(key,whiteList)>=0){
-                StdOut.println(key);
+                StdOut.println("-"+key);
             }
 
         }
